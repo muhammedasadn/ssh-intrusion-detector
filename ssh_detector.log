@@ -1,0 +1,17 @@
+2026-03-01 14:39:00,123 - INFO - SSH Detector Started
+2026-03-01 14:46:18,367 - INFO - SSH Detector Started
+2026-03-01 14:47:01,202 - WARNING - Failed login from 192.168.1.16 | Attempts: 1
+2026-03-01 14:47:12,211 - WARNING - Failed login from 192.168.1.16 | Attempts: 2
+2026-03-01 14:47:20,219 - WARNING - Failed login from 192.168.1.16 | Attempts: 3
+2026-03-01 14:47:30,628 - WARNING - Failed login from 192.168.1.16 | Attempts: 4
+2026-03-01 14:47:40,036 - WARNING - Failed login from 192.168.1.16 | Attempts: 5
+2026-03-01 14:47:40,042 - WARNING - IP BLOCKED: 192.168.1.16
+2026-03-01 17:47:48,102 - INFO - SSH Detector Started
+2026-03-01 17:48:14,526 - WARNING - Failed login from 192.168.1.16 | Attempts: 1
+2026-03-01 17:48:30,339 - WARNING - Failed login from 192.168.1.16 | Attempts: 2
+2026-03-01 18:05:03,102 - INFO - SSH Detector Started
+2026-03-02 17:24:43,048 - INFO - SSH Detector Started
+2026-03-02 17:39:03,094 - WARNING - Failed login from 192.168.1.16 | Attempts: 1
+2026-03-02 17:39:21,518 - WARNING - Failed login from 192.168.1.16 | Attempts: 2
+2026-03-02 17:40:14,761 - WARNING - Failed login from 192.168.1.16 | Attempts: 3
+2026-03-02 17:41:24,419 - WARNING - Failed login from 192.168.1.16 | Attempts: 4
