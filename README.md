@@ -127,6 +127,14 @@ Implement async log streaming for better performance
 Add sliding window algorithms for detection accuracy
 Introduce modular plugin architecture
 Optimize memory and CPU usage
+
+# screenshots
+<img width="1003" height="176" alt="Screenshot from 2026-03-27 15-17-58" src="https://github.com/user-attachments/assets/93ec6f31-ac10-421e-9ced-d431dc155ce1" />
+
+<img width="1019" height="132" alt="Screenshot from 2026-03-27 15-28-16" src="https://github.com/user-attachments/assets/9c9b67de-5c4d-4980-9ee0-25ce5c0d0ebd" />
+
+
+
 👨‍💻 Author
 
 Muhammed Asad N
