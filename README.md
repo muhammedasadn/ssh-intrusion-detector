@@ -38,6 +38,7 @@ Brute-force attacks and unauthorized access attempts often go unnoticed until da
 ---
 
 ## 🏗️ System Architecture
+
     ┌──────────────────────────┐
     │  SSH Authentication Log  │
     │  (/var/log/auth.log)     │
@@ -57,10 +58,10 @@ Brute-force attacks and unauthorized access attempts often go unnoticed until da
                  │
     ┌────────────┴─────────────┐
     ▼                          ▼
-┌───────────────┐ ┌────────────────┐
+`┌───────────────┐ ┌────────────────┐
 │ Alert System  │ │ Event Logging  │
 │ (Console/Log) │ │ (Audit Trail)  │
-└───────────────┘ └────────────────┘
+└───────────────┘ └────────────────┘`
 
 
 ---
