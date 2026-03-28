@@ -62,6 +62,7 @@ Brute-force attacks and unauthorized access attempts often go unnoticed until da
 │ (Console/Log) │ │ (Audit Trail)  │
 └───────────────┘ └────────────────┘
 
+
 ---
 
 ## ⚙️ Tech Stack
